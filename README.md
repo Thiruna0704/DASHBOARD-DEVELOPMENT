@@ -106,4 +106,4 @@ Business growth patterns
 ✅ KPI Summary Section
 ✅ Drill-down Capabilities
 ✅ Clean and Professional UI
-
+OUTPUT:![Image](https://github.com/user-attachments/assets/f938e39a-1435-4638-986a-9217854fd51d)
